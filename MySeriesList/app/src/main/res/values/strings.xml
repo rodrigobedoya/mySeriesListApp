@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySeriesList</string>
+    <string name="Ranking">Rank</string>
+    <string name="ShowAll">Show All</string>
+    <string name="LogOut">Log out</string>
+
+    <string name="Username">Username</string>
+    <string name="Pass">Password</string>
+    <string name="Password2">Confirm Password</string>
+    <string name="Answer">Answer</string>
+    <string name="Name">Name</string>
+    <string name="Rating">Rating:</string>
+    <string name="paragraph_test">A paragraph (from the Ancient Greek παράγραφος paragraphos, "to write beside" or "written beside") is a self-contained unit of a discourse in writing dealing with a particular point or idea. A paragraph consists of one or more sentences.</string>
+</resources>
